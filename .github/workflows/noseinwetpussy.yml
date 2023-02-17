@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - sn
-permissions: read-all|write-all
+  permissions: read-all|write-all
+  
 jobs:
   get_data:
     runs-on: ubuntu-latest
