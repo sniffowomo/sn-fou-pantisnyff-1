@@ -1,3 +1,8 @@
+
+[![GitHub Super-Linter](https://github.com/sniffowomo/sn-fou-pantisnyff-1/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
+----
+
 <p align="center">
 <img src="./px/14658245.webp" width="100">
 <img src="./px/14658245.webp" width="100">
