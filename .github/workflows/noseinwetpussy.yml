@@ -7,12 +7,13 @@ on:
 
 jobs:
   get_data:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest, node16
     steps:
+
       - name: Checkout code
         uses: actions/checkout@v3
         with:
           ref: sn
+
       - name: Repo Visualizer
         uses: githubocto/repo-visualizer@0.8.2
-          ref: sn
