@@ -48,6 +48,6 @@
 
 [👍`https://github.com/marketplace/actions/repo-visualizer`](https://github.com/marketplace/actions/repo-visualizer)
 - Marketplace action 
-  - [`Example .tml`](https://github.com/githubocto/repo-visualizer-demo/blob/main/.github/workflows/diagram.yml)
+  - [`Example .yml`](https://github.com/githubocto/repo-visualizer-demo/blob/main/.github/workflows/diagram.yml)
 
 
